@@ -1,0 +1,2 @@
+# Sistemstokgudang
+sistem stok gudang
